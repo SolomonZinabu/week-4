@@ -1,6 +1,4 @@
 seaborn
 matplotlib
 pandas
-dvc
-scipy
 numpy
